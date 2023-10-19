@@ -3,5 +3,4 @@ In this repository you will find documentation and models that I have created du
 Thank you for viewing my work!
 
 Warm regards,
-
 Brandon
